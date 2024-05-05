@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.incio {
+    display: flex;
+    justify-content: left;
+}
+h1 {
+    background-color: pink;
+    color: darkred;
+    padding: 10px;
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+    font-weight: 900;
+}
+.sistemas {
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    background-color: pink;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+}
+.contenedor {
+    display: flex;
+    justify-content: left;
+}
+h2 {
+    padding: 10px;
+    text-align: left;
+    font-family: "Concert One", sans-serif;
+}
+.yo {
+    border-radius: 50%;
+    justify-content: right;
+}
+.IMAGENES {
+    display: flex;
+    justify-content: space-evenly;
+}
+footer {
+    background-color: pink;
+    color: darkred;
+}
+h5 {
+    padding: 10px;
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+}
+.enlaces {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+}
+.IMAGENESDOS {
+    display: flex;
+    justify-content: space-evenly;
+}
+.enlacesdos {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+}
+.btn {
+    display: inline;
+    background-color: pink;
+}
+.btn:hover {
+    background-color: darkred;
+    color: white;
+}
+.btnd {
+    display: inline;
+    background-color: pink;
+}
+.btnd:hover {
+    background-color: darkred;
+    color: white;
+}
